@@ -1,0 +1,14 @@
+D:\Users\bartosz.potyrala\source\repos\ProjektZaj2\ProjektZaj2\ProjektZaj2\bin\Debug\net8.0\ProjektZaj2.exe
+D:\Users\bartosz.potyrala\source\repos\ProjektZaj2\ProjektZaj2\ProjektZaj2\bin\Debug\net8.0\ProjektZaj2.deps.json
+D:\Users\bartosz.potyrala\source\repos\ProjektZaj2\ProjektZaj2\ProjektZaj2\bin\Debug\net8.0\ProjektZaj2.runtimeconfig.json
+D:\Users\bartosz.potyrala\source\repos\ProjektZaj2\ProjektZaj2\ProjektZaj2\bin\Debug\net8.0\ProjektZaj2.dll
+D:\Users\bartosz.potyrala\source\repos\ProjektZaj2\ProjektZaj2\ProjektZaj2\bin\Debug\net8.0\ProjektZaj2.pdb
+D:\Users\bartosz.potyrala\source\repos\ProjektZaj2\ProjektZaj2\ProjektZaj2\obj\Debug\net8.0\ProjektZaj2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\bartosz.potyrala\source\repos\ProjektZaj2\ProjektZaj2\ProjektZaj2\obj\Debug\net8.0\ProjektZaj2.AssemblyInfoInputs.cache
+D:\Users\bartosz.potyrala\source\repos\ProjektZaj2\ProjektZaj2\ProjektZaj2\obj\Debug\net8.0\ProjektZaj2.AssemblyInfo.cs
+D:\Users\bartosz.potyrala\source\repos\ProjektZaj2\ProjektZaj2\ProjektZaj2\obj\Debug\net8.0\ProjektZaj2.csproj.CoreCompileInputs.cache
+D:\Users\bartosz.potyrala\source\repos\ProjektZaj2\ProjektZaj2\ProjektZaj2\obj\Debug\net8.0\ProjektZaj2.dll
+D:\Users\bartosz.potyrala\source\repos\ProjektZaj2\ProjektZaj2\ProjektZaj2\obj\Debug\net8.0\refint\ProjektZaj2.dll
+D:\Users\bartosz.potyrala\source\repos\ProjektZaj2\ProjektZaj2\ProjektZaj2\obj\Debug\net8.0\ProjektZaj2.pdb
+D:\Users\bartosz.potyrala\source\repos\ProjektZaj2\ProjektZaj2\ProjektZaj2\obj\Debug\net8.0\ProjektZaj2.genruntimeconfig.cache
+D:\Users\bartosz.potyrala\source\repos\ProjektZaj2\ProjektZaj2\ProjektZaj2\obj\Debug\net8.0\ref\ProjektZaj2.dll
